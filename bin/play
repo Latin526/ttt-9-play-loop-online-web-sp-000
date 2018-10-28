@@ -7,6 +7,13 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
 
-# Make sure to execute #play below
+# Make sure to execute #play 
+
+
+board = ["X"," "," "," "," "," "," "," "," "]
+puts "Welcome to Tic Tac Toe!"
+puts display_board(board)
+#turn(board)
+play(board)
 
 
