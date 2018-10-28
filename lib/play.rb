@@ -37,7 +37,7 @@ end
 
 # Define your play method below
 
-def play(board, index)
+def play(board)
   puts turn(9)
 end
     
