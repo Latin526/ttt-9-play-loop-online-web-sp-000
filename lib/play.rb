@@ -39,5 +39,5 @@ end
 
 def play(board, index)
   puts turn(9)
-  end
+end
     
